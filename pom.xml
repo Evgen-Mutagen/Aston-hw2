@@ -26,15 +26,5 @@
             <artifactId>jakarta.servlet.jsp.jstl</artifactId>
             <version>2.0.0</version>
         </dependency>
-
-    </dependencies>
-         
-         <distributionManagement>
-       <repository>
-         <id>internal.repo</id>
-         <name>Internal repo</name>
-         <url>file:///var/lib/jenkins/workspace/Aston-hw</url>
-       </repository>
-   </distributionManagement>
          
 </project>
