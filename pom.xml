@@ -33,7 +33,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>file:///home/evgenii/testin</url>
+         <url>file:///home/evgenii/test/in</url>
        </repository>
    </distributionManagement>
          
