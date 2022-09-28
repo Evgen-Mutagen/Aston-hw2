@@ -33,7 +33,7 @@
        <repository>
          <id>internal.repo</id>
          <name>Internal repo</name>
-         <url>file:////home/evgenii/test</url>
+         <url>file:///var/lib/jenkins/workspace/Aston-hw</url>
        </repository>
    </distributionManagement>
          
